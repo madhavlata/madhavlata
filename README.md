@@ -1,3 +1,4 @@
+![logo](https://i.postimg.cc/kXzH5R9x/github-header-image-1.png)
 <h1 align="center">Hi 👋, I'm Madhav Lata</h1>
 <h3 align="center">Undergrad student at IIT Kanpur</h3>
 
