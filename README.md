@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/madhavlata" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="madhavlata" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/madhav-lata-6515201b7/" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.sv](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)g" alt="madhavlata" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
